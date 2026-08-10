@@ -1,9 +1,3 @@
-/**
- * File: main.c
- * Lab 3: Basic I/O with interrupts and timed LED states
- * Authors: Andrea Taguinod and Shahad
- * Date: 10/15/2025
- */
 
 #include "msp.h"
 #include <stdint.h>
